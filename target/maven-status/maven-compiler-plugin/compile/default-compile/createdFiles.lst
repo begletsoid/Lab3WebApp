@@ -1,0 +1,5 @@
+com\app\models\Store.class
+com\app\controllers\UserController.class
+com\app\models\User.class
+com\app\controllers\GuestBook.class
+com\app\dao\UserDao.class

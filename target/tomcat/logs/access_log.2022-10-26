@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:12:23:17 +0300] "GET / HTTP/1.1" 200 310 http-bio-8080-exec-1 39
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:12:23:17 +0300] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:12:29:25 +0300] "POST /usercontroller HTTP/1.1" 200 143 http-bio-8080-exec-5 585
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:12:35:09 +0300] "POST /usercontroller HTTP/1.1" 200 143 http-bio-8080-exec-8 3
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:12:35:44 +0300] "POST /usercontroller HTTP/1.1" 200 143 http-bio-8080-exec-10 3
